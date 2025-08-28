@@ -1,4 +1,6 @@
 # inaeba-github
-Primer repositorio en Github del curso Admin de Repos-INA para INAEBA
+Primer repositorio  curso Admin de Repos-INA para INAEBA
+
+modificacion realizada en VS
 
 Línea add del 1 commit
